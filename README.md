@@ -7,4 +7,5 @@ Quick implementation of some Generative AI applications.
 
 [Pigeon](https://github.com/agermanidis/pigeon) is an open-source annotation tool. One can annotate the dataset by simply defining buttons and labeling samples, as demonstrated below.
 
-.. image:: http://i.imgur.com/00ry4Li.gif
+![](http://i.imgur.com/00ry4Li.gif)
+
