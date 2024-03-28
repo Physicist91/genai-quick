@@ -11,7 +11,15 @@ In this repo, you can find notebooks for:
 
 ## Data Science Tool Stack
 
-Powerful libraries for productivity.
+Powerful tools and libraries for productivity.
+
+## Winglang
+
+[Winglang](https://github.com/winglang/wing) is an open-source programming language that abstracts away the differences between cloud providers by providing a standard infrastructural API. Winglang expresses both infrastructure and application logic in a safe and unified programming model with two execution phases:
+1. *preflight* for infrastructure definitions
+2. *inflight* for runtime code
+
+![](https://github.com/winglang/wing/raw/main/apps/wing/logo/demo.gif)
 
 ## Pigeon
 
