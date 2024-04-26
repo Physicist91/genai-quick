@@ -13,6 +13,12 @@ In this repo, you can find notebooks for:
 
 Powerful tools and libraries for productivity.
 
+## CopilotKit
+
+[CopilotKit](https://github.com/CopilotKit/CopilotKit) is an open-source framework that lets us integrate AI into react applications with little code easily.
+
+![](https://github.com/Physicist91/genai-quick/assets/4892798/1335cf8b-4bf5-498a-bb68-7151b5d994c4)
+
 ## Winglang
 
 [Winglang](https://github.com/winglang/wing) is an open-source programming language that abstracts away the differences between cloud providers by providing a standard infrastructural API. Winglang expresses both infrastructure and application logic in a safe and unified programming model with two execution phases:
